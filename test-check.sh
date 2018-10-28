@@ -6,6 +6,6 @@
 ./check.sh "https://github.com/deisthree/example-php.git" "example-php" "Powered by Deis"
 ./check.sh "https://github.com/deisthree/example-play.git" "example-play" "Powered by Deis"
 ./check.sh "https://github.com/deisthree/example-python-django.git" "example-python-django" "Powered by Deis"
-./check.sh "https://github.com/deisthree/example-python-flask.git" example-python-flask" "Powered by Deis"
+./check.sh "https://github.com/deisthree/example-python-flask.git" "example-python-flask" "Powered by Deis"
 ./check.sh "https://github.com/deisthree/example-ruby-sinatra.git" "example-ruby-sinatra" "Powered by Deis"
 ./check.sh "https://github.com/deisthree/example-scala.git" "example-scala" "Powered by Deis"
